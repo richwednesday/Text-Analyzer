@@ -1,3 +1,7 @@
 # Text-Analyzer
 
-This repo contains starter files for the *Text-Analyzer* challenge in Thinkful's Front End Web Development course.
+Paste in text, submit, and get some basic stats back.
+
+https://richwednesday.github.io/Text-Analyzer/
+
+This is a challenge from Thinkful's Front-End Web Development Course.
